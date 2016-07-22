@@ -1,0 +1,9 @@
+{
+  "name": "customer-support-slack",
+  "version": "v2.0.0",
+  "description": "Customer support slack",
+  "dependencies": {
+    "underscore": "latest",
+    "slack-node": "latest"
+  }
+}
